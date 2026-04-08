@@ -16,7 +16,7 @@ public class AppCuenta {
 	        cuenta1.mostrarDatos();
 	        cuenta2.mostrarDatos();
 	        p1.mostrarDatos();
-	        p1.mostrarDatosConBordes();
+	//p1.mostrarDatosConBordes();
 	}
 
 }

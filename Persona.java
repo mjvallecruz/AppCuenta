@@ -27,16 +27,7 @@ public class Persona {
 
 	    }
 
-	    public void mostrarDatosConBordes() {
-
-	        String datos = "";
-	        datos += "Nombre: " + nombre + "\n";
-	        datos += "DNI: " + dni + "\n";
-	        datos += "Edad: " + edad + "\n";
-	        datos += "Ciudad: " + ciudadResidencia + "\n";
-	        datos += "Profesión: " + profesion + "\n";
-	        System.out.println(datos);
-	    }
+	   
 
 }
 

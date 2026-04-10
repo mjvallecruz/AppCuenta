@@ -17,6 +17,7 @@ public class AppCuenta {
 	        cuenta2.mostrarDatos();
 	        p1.mostrarDatos();
 	//p1.mostrarDatosConBordes();
+	//modifico app desde GitHub
 	}
 
 }

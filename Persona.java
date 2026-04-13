@@ -1,5 +1,5 @@
 package personaCuenta;
-
+//comentario añadido desde Git Hub
 public class Persona {
 	   String nombre;
 	    int edad;
